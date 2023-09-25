@@ -195,12 +195,12 @@
  gradient_color_2 = '#F51B6E'
 
  # Trans flag gradient
- #gradient_count = 5
- #gradient_color_1 = '#74d7ec'
- #gradient_color_2 = '#ffafc7'
- #gradient_color_3 = '#ffffff'
- #gradient_color_4 = '#ffafc7'
- #gradient_color_5 = '#74d7ec'
+# gradient_count = 5
+# gradient_color_1 = '#74d7ec'
+# gradient_color_2 = '#ffafc7'
+# gradient_color_3 = '#ffffff'
+# gradient_color_4 = '#ffafc7'
+# gradient_color_5 = '#74d7ec'
 
 
 
