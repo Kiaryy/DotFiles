@@ -6,6 +6,9 @@
 # Waybar
 If the bar is displaying funky symbols, try installing the fonts Iosevka, FontAwesome and Noto Sans CJK
 
+# Screensharing
+To screen share you will need xdg-desktop-portal-hyprland, and use pulseaudio on pipewire instead of only pulseaudio.
+
 # Neofetch
 The file "neofetch" needs to be in the /usr/bin/ folder for the ascii art to display correctly
 
