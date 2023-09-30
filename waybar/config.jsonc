@@ -131,9 +131,9 @@
 		"format-icons": {
 			"default": ["󰕿", "󰖀", "󰕾"]
 		},
-		"on-click": "pactl set-sink-volume 1 0%",
-    "on-scroll-up": "pactl set-sink-volume 1 +10%",
-    "on-scroll-down": "pactl set-sink-volume 1 -10%",
+		"on-click": "pactl set-sink-volume 0 0%",
+    "on-scroll-up": "pactl set-sink-volume 0 +10%",
+    "on-scroll-down": "pactl set-sink-volume 0 -10%",
     "scroll-step": 5,
 		"on-click-right": "pavucontrol"
   },
