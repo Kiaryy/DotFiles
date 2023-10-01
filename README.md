@@ -29,3 +29,4 @@ You can change the seed at the bottom of the ".bashrc" file
 11) htop (ctrl + shift + esc summons htop, yes im very original)
 12) hyprshot (windows + shift + s summons hyprshot, it will only save the screenshot to your clipboard)
 18) hyprpicker (not really needed but its good to have)
+19) nwg-look
