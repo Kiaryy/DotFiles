@@ -117,6 +117,12 @@ window#waybar {
     margin-right: 5px;
 }
 
+#custom-logout {
+    color: #f4d9e1;
+    border-radius: 8px;
+    margin-left: 0px;
+}
+
 #pulseaudio {
     color: #f4d9e1;
     border-radius: 8px;

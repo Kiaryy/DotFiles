@@ -8,14 +8,19 @@
     "margin-right": 0,
     "modules-left": ["custom/launcher", "hyprland/workspaces", "custom/playerctl", "custom/playerlabel"],
     "modules-center": ["cpu", "memory", "disk"],
-    "modules-right": ["tray", "custom/randwall", "network", "pulseaudio", "clock"],
+    "modules-right": ["tray", "custom/randwall", "network", "pulseaudio", "custom/logout", "clock"],
     // Modules configuration
 	"clock": {
-		"format": " {:%H:%M}",
+		"format": " {:%d/%m}",
 		"tooltip": "true",
         	"tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
         	"format-alt": " {:%d/%m}"
 	},
+
+  "custom/logout": {
+    "format": "",
+    "on-click": "wlogout"
+  },
 	
 
 	"hyprland/workspaces": {
@@ -38,6 +43,8 @@
     "sort-by-number": true
     },
     },
+
+
 
     "custom/playerctl": {
       "format": "{icon}",
