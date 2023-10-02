@@ -31,7 +31,7 @@ paru -S wlogout swaylock-effects
 5) kitty
 6) cava
 7) tty-clock
-8) thunar
+8) thunar & tumbler & ffmpegthumbnailer
 9) arch linux tweak tool (very useful if u have room temperature iq like me (or if you are very lazy (like me)))
 10) paru (you dont need it to install this, but its cool to have)
 11) wofi
