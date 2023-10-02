@@ -24,7 +24,7 @@ sudo pacman -S papirus-icon-theme
 paru -S wlogout swaylock-effects
 
 # Things to Install
-1)hyprpaper (and obviously hyprland)
+1) hyprpaper (and obviously hyprland)
 2) dunst
 3) polkit-dumb-agent (very important, you can use any other polkit agent, but i think this one is cool because its very minimal) 
 4) waybar
