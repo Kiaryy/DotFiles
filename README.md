@@ -17,8 +17,14 @@ The file "neofetch" needs to be in the /usr/bin/ folder for the ascii art to dis
 Also you need to install lolcat to have the same colors as the image.
 You can change the seed at the bottom of the ".bashrc" file
 
+# Icon Theme
+sudo pacman -S papirus-icon-theme
+
+# Logout Menu
+paru -S wlogout swaylock-effects
+
 # Things to Install
-1) hyprpaper (and obviously hyprland)
+1)hyprpaper (and obviously hyprland)
 2) dunst
 3) polkit-dumb-agent (very important, you can use any other polkit agent, but i think this one is cool because its very minimal) 
 4) waybar
