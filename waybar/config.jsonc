@@ -7,8 +7,8 @@
     "margin-left": 0,
     "margin-right": 0,
     "modules-left": ["custom/launcher", "hyprland/workspaces", "custom/playerctl", "custom/playerlabel"],
-    "modules-center": ["cpu", "memory", "disk"],
-    "modules-right": ["tray", "custom/randwall", "network", "pulseaudio", "custom/logout", "clock"],
+    "modules-center": ["tray"],
+    "modules-right": ["custom/randwall", "network", "pulseaudio", "custom/logout", "clock"],
     // Modules configuration
 	"clock": {
 		"format": " {:%d/%m}",
