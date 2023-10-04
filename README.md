@@ -48,4 +48,4 @@ sudo pacman -Rns xfce4 xfce4-goodies
 # TODO
 1. Find a better solution for screenshots
 2. Make everything self contained (rn everything with paths in it has my username, and while it works for me it wont work for you)
-
+3. Make an install script to make the whole deal more easy and fast
