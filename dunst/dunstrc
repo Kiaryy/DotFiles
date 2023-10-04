@@ -217,7 +217,7 @@
     max_icon_size = 32
 
     # Paths to default icons (only neccesary when not using recursive icon lookup)
-    icon_path = /home/kiary/Downloads/icons/
+    icon_path = icons/
 
     ### History ###
 
@@ -317,14 +317,14 @@
     foreground = "#ffffff"
     timeout = 5
     # Icon for notifications with low urgency, uncomment to enable
-    default_icon = /home/kiary/Downloads/icons/bell.png
+    default_icon = icons/bell.png
 
 [urgency_normal]
     background = "#222222"
     foreground = "#ffffff"
     timeout = 5
     # Icon for notifications with normal urgency, uncomment to enable
-    default_icon = /home/kiary/Downloads/icons/bell.png
+    default_icon = icons/bell.png
 
 [urgency_critical]
     background = "#900000"
@@ -332,7 +332,7 @@
     frame_color = "#ff0000"
     timeout = 0
     # Icon for notifications with critical urgency, uncomment to enable
-    default_icon = /home/kiary/Downloads/icons/exclamation-solid.png
+    default_icon = icons/exclamation-solid.png
 
 # Every section that isn't one of the above is interpreted as a rules to
 # override settings for certain messages.
