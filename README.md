@@ -4,7 +4,7 @@
 ### This is mostly for me to get my configs back in case of making a fresh install, feel free of using it if you want tho
 
 # Times i've had to reinstall linux because im dumb: 4
-
+So turns out that you can run fsck if ur installation gets messed up, i didnt know it before. That could have saved me 4 reinstalls.
 # Things to Notice
 .bashrc and .bashrc-personal go in ur home directory
 
