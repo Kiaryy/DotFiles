@@ -27,6 +27,10 @@ pacman_packages=(
   htop
   pipewire-pulse
   xdg-desktop-portal-hyprland
+  papirus-icon-theme
+  neofetch
+  lolcat
+  kitty
 )
 
 sudo pacman -S "${pacman_packages[@]}" || exit 1
@@ -43,6 +47,8 @@ aur_packages=(
   hyprshot
   hyprpicker-git
   nwg-look
+  wlogout
+  swaylock-effects
 )
 
 paru -S "${aur_packages[@]}" || exit 1
