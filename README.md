@@ -1,15 +1,13 @@
 # My silly hyprland dot files
 ![alt text](https://github.com/Kiaryy/DotFiles/blob/main/Image.png)
 
-### This is mostly for me to get my configs back in case of making a fresh install, feel free of using it if you want tho
+# Install Script
+### This will take care of installing all the stuff you will need, in the future it will also set up everything so the only thing you need to do is execute this
 
-# Times i've had to reinstall linux because im dumb: 5
-It would be really cool if windows didnt nuke my linux installation everytime theres an update
-# Things to Notice
-.bashrc and .bashrc-personal go in ur home directory
-
-# Waybar
-If the bar is displaying funky symbols, try installing the fonts Iosevka, FontAwesome and Noto Sans CJK
+```
+chmod +x install.sh
+./install.sh
+```
 
 # Screensharing
 To screen share you will need xdg-desktop-portal-hyprland, and use pulseaudio on pipewire instead of only pulseaudio.
@@ -50,6 +48,5 @@ sudo pacman -Rns xfce4 xfce4-goodies
 
 # TODO
 1. Find a better solution for screenshots
-2. Make everything self contained (rn everything with paths in it has my username, and while it works for me it wont work for you)
-3. Make an install script to make the whole deal more easy and fast
+2. Make an install script to make the whole deal more easy and fast
 ![hippo](https://media.tenor.com/qJRMLPlR3_8AAAAi/maxwell-cat.gif)
