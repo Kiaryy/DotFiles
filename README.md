@@ -4,7 +4,7 @@
 # Install Script
 ### This will take care of installing all the stuff you will need, in the future it will also set up everything so the only thing you need to do is execute this
 
-```
+``` bash
 chmod +x install.sh
 ./install.sh
 ```
