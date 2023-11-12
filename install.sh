@@ -29,8 +29,8 @@ pacman_packages=(
   xdg-desktop-portal-hyprland
   papirus-icon-theme
   neofetch
-  lolcat
-  kitty
+  lolcat 
+  kitty # I believe in kitty supremacy
 )
 
 sudo pacman -S "${pacman_packages[@]}" || exit 1
@@ -52,6 +52,11 @@ aur_packages=(
 )
 
 paru -S "${aur_packages[@]}" || exit 1
+
+# Somewhere along here ill be adding the stuff for setting up the differents tools
+# It shouldnt be that hard, its just copying and pasting stuff
+# Its just that i need to test it first and rn i dont have linux installed anymore
+# I will fix that in a few days
 
 # Guess what
 # We update again!!
