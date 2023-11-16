@@ -26,6 +26,7 @@ pacman_packages=(
   rofi
   htop
   pipewire-pulse
+  hyprpaper
   xdg-desktop-portal-hyprland
   papirus-icon-theme
   neofetch
@@ -40,7 +41,6 @@ sudo pacman -Syu || exit 1
 
 # Installation of aur packages using the previously installed paru aur helper
 aur_packages=(
-  polkit-dumb-agent-git
   cava
   tty-clock
   archlinux-tweak-tool-git
