@@ -18,6 +18,7 @@ sudo pacman -Syu || exit 1
 # Installation of all the Pacman packages
 pacman_packages=(
   --needed base-devel
+  neovim
   dunst
   waybar
   thunar
