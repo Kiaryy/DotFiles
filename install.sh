@@ -41,6 +41,9 @@ sudo pacman -Syu || exit 1
 
 # Installation of aur packages using the previously installed paru aur helper
 aur_packages=(
+# polkit-dumb-agent-git
+# There are some issues with polkit dumb agent. You can still install it but it has to be manually done.
+# I will add it again as soon as these issues are fixed.
   cava
   tty-clock
   archlinux-tweak-tool-git
