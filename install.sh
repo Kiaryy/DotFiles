@@ -50,6 +50,7 @@ aur_packages=(
   tty-clock
   archlinux-tweak-tool-git
   hyprshot
+  sddm-sugar-candy-git 
   hyprpicker-git
   nwg-look
   wlogout
