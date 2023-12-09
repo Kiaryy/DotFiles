@@ -59,10 +59,12 @@ aur_packages=(
 
 paru -S "${aur_packages[@]}" || exit 1
 
-# Somewhere along here ill be adding the stuff for setting up the differents tools
-# It shouldnt be that hard, its just copying and pasting stuff
-# Its just that i need to test it first and rn i dont have linux installed anymore
-# I will fix that in a few days
+cp -f neofetch/neofetch /usr/bin/ 
+
+folders=("cava", "dunst", "hypr", "kitty", "neofetch", "nvim", "swaylock", "waybar", "wlogout", "wofi")
+
+for folder in "${folders[@]}"; do
+	cp -f "$folder" ~/
 
 # Guess what
 # We update again!!
