@@ -60,11 +60,12 @@ aur_packages=(
 paru -S "${aur_packages[@]}" || exit 1
 
 cp -f neofetch/neofetch /usr/bin/ 
+cp -f wallpaper.png ~/.config/
 
 folders=("cava", "dunst", "hypr", "kitty", "neofetch", "nvim", "swaylock", "waybar", "wlogout", "wofi")
 
 for folder in "${folders[@]}"; do
-	cp -f "$folder" ~/
+	cp -f "$folder" ~/.config/
 
 # Guess what
 # We update again!!
