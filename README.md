@@ -13,7 +13,7 @@ chmod +x install.sh
 To screen share you will need xdg-desktop-portal-hyprland, and use pulseaudio on pipewire instead of only pulseaudio.
 
 # Themes
-Papirus Icon Theme & Dracula gtk theme
+Papirus Icon Theme & Dracula gtk theme & dunst theme (w/ slight modifications)
 
 # Things that come in the install script:
 1. [hyprpaper](https://github.com/hyprwm/hyprpaper) (For having wallpapers)
@@ -39,5 +39,4 @@ sudo pacman -Rns xfce4 xfce4-goodies
 
 # TODO
 1. Find a better solution for screenshots
-2. Make an install script to make the whole deal more easy and fast
 ![hippo](https://media.tenor.com/qJRMLPlR3_8AAAAi/maxwell-cat.gif)
