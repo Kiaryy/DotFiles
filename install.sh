@@ -67,6 +67,9 @@ folders=("cava", "dunst", "hypr", "kitty", "neofetch", "nvim", "swaylock", "wayb
 for folder in "${folders[@]}"; do
 	cp -f "$folder" ~/.config/
 
+# We make the audio controll script executable
+chmod +x ~/.config/hypr/max_audio.sh
+
 # Guess what
 # We update again!!
 sudo pacman -Syu || exit 1
