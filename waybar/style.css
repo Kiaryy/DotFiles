@@ -9,9 +9,7 @@
 }
 
 window#waybar {
-    background: rgba(30, 30, 46, 0.5);
-    border-bottom: 1px solid #282828;
-    color: #f4d9e1
+    background: rgba(30, 30, 255, 0);
 }
 
 #workspaces {
@@ -121,6 +119,7 @@ window#waybar {
     color: #f4d9e1;
     border-radius: 8px;
     margin-left: 0px;
+    margin-right: 10px;
 }
 
 #pulseaudio {
@@ -172,7 +171,7 @@ window#waybar {
 
 
 #custom-playerlabel {
-    background: transparent;
+    background: #282828;
     padding-left: 10px;
     padding-right: 15px;
     border-radius: 16px;
