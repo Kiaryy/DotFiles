@@ -1,5 +1,4 @@
 # My silly hyprland dot files
-![alt text](https://github.com/Kiaryy/DotFiles/blob/main/image.png)
 
 # Install Script
 ### This will take care of installing all the stuff you will need, in the future it will also set up everything so the only thing you need to do is execute this
