@@ -2,7 +2,7 @@
 
 # Fonts You'll Need
 Iosevka, FontAwesome and Noto Sans CJK
-
+![hippo](https://github.com/Kiaryy/DotFiles/blob/main/capture.png)
 # Themes
 Sdd theme: sddm-eucalyptus-drop 
 
