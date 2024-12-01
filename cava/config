@@ -183,6 +183,12 @@
  gradient = 1
  
 
+ # Milk inside a bag of Milk
+ gradient_count = 2
+ gradient_color_1 = '#0c0c13'
+ gradient_color_2 = '#AC3232'
+ 
+
  # Argentina gradient
  #gradient_count = 3
  #gradient_color_1 = '#6CACE4'
@@ -190,17 +196,17 @@
  #gradient_color_3 = '#6CACE4'
  
  # Lesbian gradient aka boykisser palette
- gradient_count = 2
- gradient_color_1 = '#7E12EE'
- gradient_color_2 = '#F51B6E'
+ #gradient_count = 2
+ #gradient_color_1 = '#7E12EE'
+ #gradient_color_2 = '#F51B6E'
 
  # Trans flag gradient
-# gradient_count = 5
-# gradient_color_1 = '#74d7ec'
-# gradient_color_2 = '#ffafc7'
-# gradient_color_3 = '#ffffff'
-# gradient_color_4 = '#ffafc7'
-# gradient_color_5 = '#74d7ec'
+ #gradient_count = 5
+ #gradient_color_1 = '#74d7ec'
+ #gradient_color_2 = '#ffafc7'
+ #gradient_color_3 = '#ffffff'
+ #gradient_color_4 = '#ffafc7'
+ #gradient_color_5 = '#74d7ec'
 
 
 

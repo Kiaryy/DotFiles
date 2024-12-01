@@ -6,7 +6,7 @@ window {
 }
 button {
     color: #FFFFFF;
-	background-color: #1E1E1E;
+	background-color: #0D0D14;
 	border-style: solid;
 	border-width: 2px;
 	background-repeat: no-repeat;
@@ -14,8 +14,8 @@ button {
 	background-size: 25%;
 }
 
-button:focus, button:active, button:hover {
-	background-color: #7E12EE;
+button:active, button:hover {
+	background-color: #1f1f30;
 	outline-style: none;
 }
 

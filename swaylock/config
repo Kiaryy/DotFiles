@@ -19,10 +19,10 @@ datestr=%a, %e of %B
 
 # Add an image as a background 
 # In my setup the current wallpaper (requires wallpaper scripts in /scripts)
-image=~/.config/wallpaper.png
+image=~/.config/hypr/wallpaper.png
 
 # Fade in time
-fade-in=1
+fade-in=0
 
 # Effect for background
 # effect-blur=20x6
