@@ -11,4 +11,4 @@ zstyle :compinstall filename '/home/kiary/.zshrc'
 autoload -Uz compinit
 compinit
 # End of lines added by compinstall
-neofetch | lolcat --spread=20 --freq=0.01 -S 21520
+neofetch --ascii ~/.config/neofetch/cat_ascii | lolcat --spread=20 --freq=0.01 -S 21520
