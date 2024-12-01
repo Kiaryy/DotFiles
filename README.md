@@ -7,7 +7,7 @@ Sdd theme: sddm-eucalyptus-drop
 # Shell
 Im using zsh with powerlevel10k
 # Things You'll Want To Install
-1. [hyprpaper] (https://github.com/hyprwm/hyprpaper) (To display wallpapers)
+1. [hyprpaper](https://github.com/hyprwm/hyprpaper) (To display wallpapers)
 2. [dunst](https://github.com/dunst-project/dunst) (Notifications)
 3. [waybar](https://github.com/Alexays/Waybar)
 4. [kitty](https://github.com/kovidgoyal/kitty) (terminal)
