@@ -14,7 +14,7 @@ Im using zsh with powerlevel10k
 5. [cava](https://github.com/karlstav/cava) (tty audio visualizer)
 6. [tty-clock](https://github.com/xorg62/tty-clock)
 7. tunar & tumbler & ffmpegthumbnailer
-8. [nwg-look](https://github.com/nwg-piotr/nwg-look) (same for this one)
+8. [nwg-look](https://github.com/nwg-piotr/nwg-look) (changin gtk themes)
 9. [grim](https://github.com/emersion/grim)&[slurp](https://github.com/emersion/slurp) (For screenshots)
 10. [hyprpicker](https://github.com/hyprwm/hyprpicker) (Color picker utility)
 11. [paru](https://github.com/Morganamilo/paru)
