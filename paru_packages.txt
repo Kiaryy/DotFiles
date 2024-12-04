@@ -1,0 +1,15 @@
+cava
+grub-editor
+hyprgui-bin
+hyprpolkitagent-git
+hyprutils-git
+paru
+paru-debug
+qtilitools
+sddm-conf
+sddm-eucalyptus-drop
+sublime-text-4
+tetrs
+vesktop
+wallust
+wlogout
