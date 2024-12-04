@@ -113,3 +113,5 @@ source $ZSH/oh-my-zsh.sh
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 neofetch --ascii ~/.config/neofetch/cat_ascii | lolcat --spread=20 --freq=0.01 -S 21520 -f
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+alias tetrs="tetrs_terminal"

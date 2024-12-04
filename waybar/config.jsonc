@@ -65,8 +65,8 @@
       "exec": "playerctl -a metadata --format '{\"text\": \"{{artist}} - {{markup_escape(title)}}\", \"tooltip\": \"{{playerName}} : {{markup_escape(title)}}\", \"alt\": \"{{status}}\", \"class\": \"{{status}}\"}' -F",
       "on-click": "playerctl play-pause",
       "format-icons": {
-        "Playing": "<span foreground='#ffffff'>󰐌</span>",
-        "Paused": "<span foreground='#928374'>󰏥</span>"
+        "Playing": "<span foreground='#ffffff'>󰏥</span>",
+        "Paused": "<span foreground='#928374'>󰐌</span>"
       },
     },
 

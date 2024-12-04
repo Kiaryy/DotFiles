@@ -4,6 +4,9 @@
 Iosevka, FontAwesome and Noto Sans CJK
 # Themes
 Sdd theme: sddm-eucalyptus-drop 
+GTK theme: Nordic-Darker
+Cursor Theme: bibata-modern-ice
+Icon Theme: Not sure yet lmao
 # Shell
 Im using zsh with powerlevel10k
 # Things You'll Want To Install

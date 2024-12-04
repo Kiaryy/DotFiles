@@ -3,8 +3,6 @@ grub-editor
 hyprgui-bin
 hyprpolkitagent-git
 hyprutils-git
-paru
-paru-debug
 qtilitools
 sddm-conf
 sddm-eucalyptus-drop
@@ -13,3 +11,5 @@ tetrs
 vesktop
 wallust
 wlogout
+pix
+bibata-cursor-theme 

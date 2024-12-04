@@ -43,6 +43,8 @@ swappy
 swaylock
 swaync
 thunar
+ffmpegthumbnailer
+tumbler
 ttf-font-awesome
 ttf-iosevka-nerd
 unzip
