@@ -43,6 +43,7 @@ swappy
 swaylock
 swaync
 thunar
+gvfs
 ffmpegthumbnailer
 tumbler
 ttf-font-awesome
