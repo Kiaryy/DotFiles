@@ -1,20 +1,20 @@
 {
-    "position": "top",
+    "position": "bottom",
     "layer": "top",
+    "reload_style_on_change": true,
     "height": 16,
     "margin-top": 0,
     "margin-bottom": 0,
     "margin-left": 0,
     "margin-right": 0,
-    "modules-left": ["hyprland/workspaces", "custom/playerReturn", "custom/playerPause", "custom/playerNext" ,"custom/playerlabel"],
-    "modules-center": ["tray"],
-    "modules-right": ["custom/randwall", "network", "pulseaudio", "battery" ,"custom/logout", "clock"],
-    // Modules configuration
+    "modules-left": ["hyprland/workspaces", "custom/playerReturn", "custom/playerPause", "custom/playerNext", "custom/playerlabel"],
+    "modules-center": [],
+    "modules-right": ["custom/randwall", "tray", "network", "pulseaudio", "clock", "battery", "custom/logout"],
 	"clock": {
-		"format": "  {:%H:%M}",
-		"tooltip": "true",
+		"format": "{:%H:%M}",
+		"tooltip": "false",
         	"tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-        	"format-alt": " {:%h/%d}"
+        	"format-alt": "{:%h/%d}"
 	},
 
   "custom/logout": {
@@ -129,10 +129,9 @@
 	
 	"network": {
         	"format-wifi": "󰤨",
-        	"format-ethernet": " {ifname}: Aesthetic",
-        	"format-linked": " {ifname} (No IP)",
+        	"format-ethernet": "",
+        	"format-linked": "",
         	"format-disconnected": "󰤭",
-        	"format-alt": " {ifname}: {ipaddr}/{cidr}",
           "tooltip-format": "{essid}",
           "on-click-right": "nm-connection-editor"
 	},
@@ -185,5 +184,4 @@
     "on-click": "hyprpicker -a -f hex",
     "on-click-right": "hyprpicker -a -f rgb"
   },
-  }
 }
