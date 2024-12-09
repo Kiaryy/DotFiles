@@ -12,4 +12,6 @@ vesktop
 wallust
 wlogout
 pix
+clipse
+pwvcontrol
 bibata-cursor-theme 

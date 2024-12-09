@@ -11,7 +11,7 @@
     "modules-right": ["custom/randwall", "network", "pulseaudio", "battery" ,"custom/logout", "clock"],
     // Modules configuration
 	"clock": {
-		"format": " {:%H:%M}",
+		"format": "  {:%H:%M}",
 		"tooltip": "true",
         	"tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
         	"format-alt": " {:%h/%d}"
@@ -157,10 +157,10 @@
 			"default": ["󰕿", "󰖀", "󰕾"]
 		},
 		"on-click": "pactl set-sink-volume 0 0%",
-    "on-scroll-up": "pactl set-sink-volume 0 +10%",
-    "on-scroll-down": "pactl set-sink-volume 0 -10%",
+    "on-scroll-up": "wpctl set-volume @DEFAULT_AUDIO_SINK@ 10%+ -l 1",
+    "on-scroll-down": "wpctl set-volume @DEFAULT_AUDIO_SINK@ 10%-",
     "scroll-step": 5,
-		"on-click-right": "pavucontrol"
+		"on-click-right": "pwvucontrol"
   },
   "custom/launcher": {
     "format": "󰈸",

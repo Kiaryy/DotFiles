@@ -1,7 +1,7 @@
 # My silly hyprland dot files
 ![hippo](https://github.com/Kiaryy/DotFiles/blob/main/capture.png)
 # Fonts You'll Need
-Iosevka, FontAwesome and Noto Sans CJK
+Iosevka, FontAwesome and Noto Sans CJK, ttf-jetbrains-mono
 # Themes
 Sdd theme: sddm-eucalyptus-drop 
 GTK theme: Nordic-Darker
