@@ -59,8 +59,8 @@
     "group/audio":{
       "orientation": "inherit",
       "drawer":{
-        "transition-duration": 500,
-        "click-to-reveal": true
+        "transition-duration": 500
+        // "click-to-reveal": true
       },
       "modules":[
         "custom/audioGroupLeader",
