@@ -9,8 +9,15 @@ Cursor Theme: bibata-modern-ice
 Icon Theme: Not sure yet lmao (So far im using breeze)
 # Shell
 Im using zsh with powerlevel10k
-# Things You'll Want To Install
-## Everything i use is already included in the package lists!!
+# Everything i use is already included in the package lists!!
+Install Pacman Packages:
+```
+sudo pacman -S --needed - < pacman_only_packages.txt
+```
+Install AUR Packages:
+```
+paru -S --needed - < paru_aur_packages.txt
+```
 # Get Package List From Pacman, Filtering out AUR Packages
 ```
 comm -23 <(pacman -Qqe | sort) <(pacman -Qqm | sort) > pacman_only_packages.txt
