@@ -18,7 +18,7 @@ Install AUR Packages:
 ```
 paru -S --needed - < aur_packages.txt
 ```
-# Get Package List From Pacman, Filtering out AUR Packages
+Get Package List From Pacman, Filtering out AUR Packages
 ```
 comm -23 <(pacman -Qqe | sort) <(pacman -Qqm | sort) > pacman_only_packages.txt
 ```
