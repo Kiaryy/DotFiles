@@ -7,8 +7,8 @@
     "margin-bottom": 0,
     "margin-left": 0,
     "margin-right": 0,
-    "modules-left": ["hyprland/workspaces", "custom/playerReturn", "custom/playerPause", "custom/playerNext", "custom/playerlabel"],
-    "modules-center": [],
+    "modules-left": ["hyprland/workspaces", "group/audio"],
+    "modules-center": ["hyprland/window"],
     "modules-right": ["tray", "custom/swaync", "network", "pulseaudio", "clock", "battery", "hyprland/language", "custom/logout"],
 	"clock": {
 		"format": "{:%H:%M}",
@@ -50,7 +50,35 @@
       "format-es": "ESP",
     }, 
 
+    "hyprland/window": {  
+      "format": "{initialTitle}",   // <--- these is the default value  
+      // "format": "<span font='9' rise='-4444'>{}</span>",
+      "icon": false
+    },
 
+    "group/audio":{
+      "orientation": "inherit",
+      "drawer":{
+        "transition-duration": 500,
+        "click-to-reveal": true
+      },
+      "modules":[
+        "custom/audioGroupLeader",
+        "custom/playerReturn",
+        "custom/playerPause",
+        "custom/playerNext", 
+        "custom/playerlabel"
+
+      ]
+
+    },
+
+    "custom/audioGroupLeader":{
+        "exec": "~/.config/waybar/scripts/audio_check.sh",
+        "interval": 2,
+        "return-type": "text",
+        "tooltip": false
+    },
 
     "custom/playerReturn": {
       "format": "{icon}",
@@ -188,7 +216,7 @@
     "on-scroll-up": "wpctl set-volume @DEFAULT_AUDIO_SINK@ 10%+ -l 1",
     "on-scroll-down": "wpctl set-volume @DEFAULT_AUDIO_SINK@ 10%-",
     "scroll-step": 5,
-		"on-click-right": "pwvucontrol"
+		"on-click-right": "pypr toggle volume"
   },
   "custom/launcher": {
     "format": "󰈸",

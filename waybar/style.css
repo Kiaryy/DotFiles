@@ -129,6 +129,7 @@ window#waybar {
     margin-right: 5px;
 }
 
+
 #custom-logout {
     color: white;
     border-radius: 8px;
@@ -168,7 +169,7 @@ window#waybar {
     margin-left: 10px;
 }
 
-#custom-playerReturn, #custom-playerNext {	
+#custom-playerReturn, #custom-playerNext{	
     background: #282828;
 	padding-left: 10px;
     padding-right: 10px;
@@ -181,7 +182,21 @@ window#waybar {
     font-weight: normal;
     font-style: normal;
     font-size: 16px;
+}
 
+#custom-audioGroupLeader{
+    background: #282828;
+    padding-left: 10px;
+    padding-right: 8px;
+    border-radius: 16px;
+    /*border-left: solid 1px #282738;*/
+    /*border-right: solid 1px #282738;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 16px;
 }
 
 #custom-playerReturn:hover, #custom-playerNext:hover, #custom-playerPause:hover {

@@ -1,0 +1,20 @@
+[pyprland]
+plugins = [
+    "scratchpads",
+    "fetch_client_menu"
+]
+
+[scratchpads.terminal]
+animation = "fromTop"
+command = "kitty --class kitty-dropterm"
+class = "kitty-dropterm"
+size = "75% 60%"
+
+[scratchpads.volume]
+animation = "fromRight"
+command = "pwvucontrol"
+class = "com.saivert.pwvucontrol"
+size = "40% 90%"
+unfocus = "hide"
+lazy = true
+
