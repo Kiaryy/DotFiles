@@ -16,7 +16,7 @@ sudo pacman -S --needed - < pacman_only_packages.txt
 ```
 Install AUR Packages:
 ```
-paru -S --needed - < paru_aur_packages.txt
+paru -S --needed - < aur_packages.txt
 ```
 # Get Package List From Pacman, Filtering out AUR Packages
 ```
