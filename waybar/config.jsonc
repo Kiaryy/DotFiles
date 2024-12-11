@@ -9,7 +9,7 @@
     "margin-right": 0,
     "modules-left": ["hyprland/workspaces", "custom/playerReturn", "custom/playerPause", "custom/playerNext", "custom/playerlabel"],
     "modules-center": [],
-    "modules-right": ["tray", "custom/swaync", "network", "pulseaudio", "clock", "battery", "custom/logout"],
+    "modules-right": ["tray", "custom/swaync", "network", "pulseaudio", "clock", "battery", "hyprland/language", "custom/logout"],
 	"clock": {
 		"format": "{:%H:%M}",
 		"tooltip": "false",
@@ -43,6 +43,12 @@
     "sort-by-number": true
     },
     },
+
+     "hyprland/language": {
+      "format": "{}",
+      "format-en": "ENG",
+      "format-es": "ESP",
+    }, 
 
 
 
