@@ -3,10 +3,13 @@
 # Fonts You'll Need
 Iosevka, FontAwesome and Noto Sans CJK, ttf-jetbrains-mono
 # Themes
-Sdd theme: sddm-eucalyptus-drop 
-GTK theme: Nordic-Darker 
-Cursor Theme: bibata-modern-ice 
-Icon Theme: Not sure yet lmao (So far im using breeze)
+Sdd theme: sddm-eucalyptus-drop <br/>
+GTK theme: [Breeze-Dark-gtk](https://github.com/simoniz0r/breeze-gtk) <br/>
+Icon Theme: [Breeze-Dark](https://github.com/simoniz0r/breeze-gtk) <br/>
+Cursor Theme: bibata-modern-ice <br/>
+Font: System-Ui Regular <br/>
+Terminal Font: JetBrainsMono-Regular <br/>
+
 # Shell
 Im using zsh with powerlevel10k
 # Everything i use is already included in the package lists!!
