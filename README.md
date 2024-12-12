@@ -6,7 +6,7 @@ Iosevka, FontAwesome and Noto Sans CJK, ttf-jetbrains-mono
 Sdd theme: sddm-eucalyptus-drop <br/>
 GTK theme: [Breeze-Dark-gtk](https://github.com/simoniz0r/breeze-gtk) <br/>
 Icon Theme: [Breeze-Dark](https://github.com/simoniz0r/breeze-gtk) <br/>
-Cursor Theme: bibata-modern-ice <br/>
+Cursor Theme: Adwaita <br/>
 Font: System-Ui Regular <br/>
 Terminal Font: JetBrainsMono-Regular <br/>
 
