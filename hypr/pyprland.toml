@@ -18,3 +18,10 @@ size = "40% 90%"
 unfocus = "hide"
 lazy = true
 
+[scratchpads.network]
+animation = "fromRight"
+command = "nm-connection-editor"
+class = "nm-connection-editor"
+size = "40% 90%"
+unfocus = "hide"
+lazy = true

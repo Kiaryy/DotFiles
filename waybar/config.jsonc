@@ -59,7 +59,7 @@
     "group/audio":{
       "orientation": "inherit",
       "drawer":{
-        "transition-duration": 500
+        "transition-duration": 500,
         // "click-to-reveal": true
       },
       "modules":[
@@ -190,7 +190,7 @@
         	"format-linked": "",
         	"format-disconnected": "󰤭",
           "tooltip-format": "{essid}",
-          "on-click-right": "nm-connection-editor"
+          "on-click-right": "pypr toggle network"
 	},
 
 	"tray": {

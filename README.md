@@ -1,14 +1,14 @@
 # My silly hyprland dot files
 ![hippo](https://github.com/Kiaryy/DotFiles/blob/main/capture.png)
 # Fonts You'll Need
-Iosevka, FontAwesome and Noto Sans CJK, ttf-jetbrains-mono
+Iosevka, FontAwesome and Noto Sans CJK, ttf-jetbrains-mono, tf-jetbrains-mono-nerd
 # Themes
 Sdd theme: sddm-eucalyptus-drop <br/>
 GTK theme: [Breeze-Dark-gtk](https://github.com/simoniz0r/breeze-gtk) <br/>
 Icon Theme: [Breeze-Dark](https://github.com/simoniz0r/breeze-gtk) <br/>
 Cursor Theme: Adwaita <br/>
 Font: System-Ui Regular <br/>
-Terminal Font: JetBrainsMono-Regular <br/>
+Terminal Font: tf-jetbrains-mono-nerd <br/>
 
 # Shell
 Im using zsh with powerlevel10k

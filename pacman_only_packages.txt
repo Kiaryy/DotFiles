@@ -50,6 +50,7 @@ thunar
 ttf-font-awesome
 ttf-iosevka-nerd
 ttf-jetbrains-mono
+tf-jetbrains-mono-nerd
 tumbler
 unzip
 vim

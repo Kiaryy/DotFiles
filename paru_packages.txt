@@ -14,5 +14,6 @@ wlogout
 pix
 clipse
 pwvcontrol
-pypt
+pypr
+gpu-screen-recorder 
 bibata-cursor-theme 
