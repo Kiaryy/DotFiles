@@ -15,6 +15,7 @@ gst-plugin-pipewire
 gvfs
 htop
 hyprland
+hypridle
 hyprlock
 hyprpaper
 hyprpicker
@@ -71,3 +72,4 @@ xorg-xinit
 zram-generator
 zsh
 zsh-completions
+thunar-archive-plugin
