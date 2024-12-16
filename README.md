@@ -27,8 +27,10 @@ comm -23 <(pacman -Qqe | sort) <(pacman -Qqm | sort) > pacman_only_packages.txt
 ```
 
 # TODO
-1. Setup HyprIdle and HyprLock
-2. NeoVim dots
-3. Find a icon theme
+1. ~~Setup HyprIdle and HyprLock~~
+2. NeoVim dots Soon™
+3. Find a icon theme (So far im happy with Breeze-Dark but could i change it the future)
 
 ![hippo](https://media.tenor.com/qJRMLPlR3_8AAAAi/maxwell-cat.gif)
+
+Shoutout to [Strophox](https://github.com/Strophox) for making the coolest cli tetris game and keeping me entertained while making these dotfiles
