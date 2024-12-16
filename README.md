@@ -29,7 +29,7 @@ comm -23 <(pacman -Qqe | sort) <(pacman -Qqm | sort) > pacman_only_packages.txt
 # TODO
 1. ~~Setup HyprIdle and HyprLock~~
 2. NeoVim dots Soon™
-3. Find a icon theme (So far im happy with Breeze-Dark but could i change it the future)
+3. Find a icon theme (So far im happy with Breeze-Dark but i could change it the future)
 
 ![hippo](https://media.tenor.com/qJRMLPlR3_8AAAAi/maxwell-cat.gif)
 
