@@ -73,3 +73,4 @@ zram-generator
 zsh
 zsh-completions
 thunar-archive-plugin
+kcalc
