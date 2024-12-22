@@ -15,4 +15,5 @@ pix
 clipse
 pwvcontrol
 pypr
-gpu-screen-recorder 
+gpu-screen-recorder
+neo-matrix
