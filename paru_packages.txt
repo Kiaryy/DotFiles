@@ -16,4 +16,3 @@ clipse
 pwvcontrol
 pypr
 gpu-screen-recorder 
-bibata-cursor-theme 
