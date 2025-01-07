@@ -19,3 +19,10 @@
     "text" : "Reboot",
     "keybind" : "r"
 }
+
+{
+    "label" : "suspend",
+    "action" : "systemctl suspend",
+    "text" : "Suspend",
+    "keybind" : "S"
+}

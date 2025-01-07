@@ -16,16 +16,21 @@ button {
 
 button:active, button:hover {
 	background-color: #1f1f30;
+	border-color: #AC3232;
 	outline-style: none;
 }
 
 #lock {
-    background-image: image(url("icons/lock.png"), url("icons/lock.png"));
+    background-image: image(url("icons/lock-solid.svg"), url("icons/lock-solid.svg"));
 }
 #shutdown {
-    background-image: image(url("icons/shutdown.png"), url("icons/shutdown.png"));
+    background-image: image(url("icons/power-off-solid.svg"), url("icons/power-off-solid.svg"));
+}
+
+#suspend{
+	background-image: image(url("icons/moon-solid.svg"), url("icons/moon-solid.svg"));
 }
 
 #reboot {
-    background-image: image(url("icons/reboot.png"), url("icons/reboot.png"));
+    background-image: image(url("icons/rotate-right-solid.svg"), url("icons/rotate-right-solid.svg"));
 }
