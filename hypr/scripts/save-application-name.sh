@@ -13,6 +13,6 @@ video_dir="$HOME/Videos/Clips/$SANITIZED_NAME"
 
 mkdir -p "$video_dir"
 
-video="$video_dir/$(date +"${SANITIZED_NAME}_%Y-%m-%d.mp4")"
+video="$video_dir/$(date +"${SANITIZED_NAME}_%Y.%m.%d-%H.%M.mp4")"
 echo "$video"
 mv "$1" "$video"
