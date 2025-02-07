@@ -115,3 +115,5 @@ source $ZSH/oh-my-zsh.sh
 neofetch --ascii ~/.config/neofetch/cat_ascii | lolcat --spread=20 --freq=0.01 -S 21520 -f
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 alias tetrs="tetrs_terminal"
+alias pympeg="python /home/kiary/Downloads/scripts/pympeg.py"
+
