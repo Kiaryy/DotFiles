@@ -14,7 +14,7 @@
 		"format": "{:%H:%M}",
 		"tooltip": "false",
         	"tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-        	"format-alt": "{:%h/%d}"
+        	"format-alt": "{:%a/%d}"
 	},
 
   "custom/logout": {
