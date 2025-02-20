@@ -13,7 +13,7 @@ video_dir="$HOME/Videos/Clips/$SANITIZED_NAME"
 
 mkdir -p "$video_dir"
 
-video="$video_dir/$(date +"${SANITIZED_NAME}_%Y.%m.%d-%H.%M.mp4")"
+video="$video_dir/$(date +"${SANITIZED_NAME}_%Y.%m.%d-%H.%M.%S.mp4")"
  notify-send -t 5000 -u low -- "Live Replay" "Saved the last 2 minutes at ${video_dir})"
 echo "$video"
 mv "$1" "$video"
