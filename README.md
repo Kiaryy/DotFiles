@@ -1,3 +1,4 @@
+
 # My silly hyprland dot files
 ![hippo](https://github.com/Kiaryy/DotFiles/blob/main/capture.png)
 # Fonts You'll Need
@@ -12,6 +13,9 @@ Terminal Font: tf-jetbrains-mono-nerd <br/>
 
 # Shell
 Im using zsh with powerlevel10k
+# Clipping Software
+You take clips of 2 minutes with ctrl+shift+L
+The clips have insanely high quality and the will take up to 1.5 Gbs of space so remember to delete old clips
 # Everything i use is already included in the package lists!!
 Install Pacman Packages:
 ```
