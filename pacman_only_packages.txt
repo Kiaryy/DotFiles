@@ -31,7 +31,7 @@ nano
 neofetch
 noto-fonts-cjk
 ntfs-3g
-nwg-look
+lxappearance
 openssh
 os-prober
 pipewire
