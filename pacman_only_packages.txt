@@ -14,11 +14,6 @@ grub
 gst-plugin-pipewire
 gvfs
 htop
-hyprland
-hypridle
-hyprlock
-hyprpaper
-hyprpicker
 iwd
 kitty
 libpulse
