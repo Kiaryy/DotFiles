@@ -6,7 +6,7 @@ Iosevka, FontAwesome and Noto Sans CJK, ttf-jetbrains-mono, tf-jetbrains-mono-ne
 # Themes
 Sdd theme: sddm-eucalyptus-drop <br/>
 GTK theme: [Milk-Outside-GTK-Theme](https://github.com/Kiaryy/Milk-Outside-GTK-Theme) <br/>
-Icon Theme: [Breeze-Dark](https://github.com/simoniz0r/breeze-gtk) <br/>
+Icon Theme: [Milk-Icons](https://github.com/Kiaryy/Milk-Outside-a-Bag-Icon-Set) <br/>
 Cursor Theme: Adwaita <br/>
 Font: System-Ui Regular <br/>
 Terminal Font: tf-jetbrains-mono-nerd <br/>
@@ -33,7 +33,7 @@ comm -23 <(pacman -Qqe | sort) <(pacman -Qqm | sort) > pacman_only_packages.txt
 # TODO
 1. ~~Setup HyprIdle and HyprLock~~
 2. NeoVim dots Soon™
-3. Find a icon theme (So far im happy with Breeze-Dark but i could change it the future)
+3. ~~Find a icon theme~~ (Using my own GTK and Icon themes)
 
 ![hippo](https://media.tenor.com/qJRMLPlR3_8AAAAi/maxwell-cat.gif)
 
