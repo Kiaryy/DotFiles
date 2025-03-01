@@ -51,7 +51,9 @@
     "inhibitors",
     "title",
     "dnd",
-    "notifications"
+    "mpris",
+    "notifications",
+    "backlight"     
   ],
   "widget-config": {
     "inhibitors": {
@@ -72,7 +74,7 @@
       "text": "Label Text"
     },
     "mpris": {
-      "image-size": 96,
+      "image-size": 50,
       "image-radius": 12
     },
     "buttons-grid": {
