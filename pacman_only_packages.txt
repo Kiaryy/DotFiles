@@ -65,7 +65,6 @@ xf86-video-ati
 xorg-server
 xorg-xinit
 zram-generator
-zsh
-zsh-completions
+fish
 thunar-archive-plugin
 kalk
