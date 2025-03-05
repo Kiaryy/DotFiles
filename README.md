@@ -1,6 +1,6 @@
 
 # My silly hyprland dot files
-![hippo](https://github.com/Kiaryy/DotFiles/blob/main/capture.png)
+![hippo](https://github.com/Kiaryy/DotFiles/blob/master/capture.png)
 # Fonts You'll Need
 Iosevka, FontAwesome and Noto Sans CJK, ttf-jetbrains-mono, tf-jetbrains-mono-nerd
 # Themes
