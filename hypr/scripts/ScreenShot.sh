@@ -1,6 +1,7 @@
 #!/bin/sh
 
-grimblast --freeze copy area 
+#grimblast --freeze copy area 
+hyprshot -z -m region -s --clipboard-only
 
 grimblast_ret=$? # We store the return value of grimblast
 

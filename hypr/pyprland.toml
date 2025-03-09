@@ -1,7 +1,6 @@
 [pyprland]
 plugins = [
-    "scratchpads",
-    "fetch_client_menu"
+    "scratchpads"
 ]
 
 [scratchpads.terminal]
