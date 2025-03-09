@@ -68,3 +68,5 @@ zram-generator
 fish
 thunar-archive-plugin
 kalk
+gvfs-mtp
+thunar-volman
