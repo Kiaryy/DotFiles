@@ -70,3 +70,4 @@ thunar-archive-plugin
 kalk
 gvfs-mtp
 thunar-volman
+thunar-media-tags-plugin
