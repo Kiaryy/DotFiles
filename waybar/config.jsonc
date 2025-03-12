@@ -12,9 +12,17 @@
     "modules-right": ["tray", "custom/swaync", "network", "pulseaudio", "clock", "battery", "hyprland/language", "custom/logout"],
 	"clock": {
 		"format": "{:%H:%M}",
-		"tooltip": "false",
-        	"tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-        	"format-alt": "{:%a/%d}"
+    "format-alt": "{:%a/%d}",
+    "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+    "calendar": {
+      "format": {
+      "months":     "<span color='#ffffff'><b>{}</b></span>",
+      "days":       "<span color='#ffffff'><b>{}</b></span>",
+      "weeks":      "<span color='#ffffff'><b>W{}</b></span>",
+      "weekdays":   "<span color='#ffffff'><b>{}</b></span>",
+      "today":      "<span color='#AC3232'><b><u>{}</u></b></span>"
+    }
+  },
 	},
 
   "custom/logout": {
