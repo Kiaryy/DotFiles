@@ -73,7 +73,7 @@ window#waybar {
 #clock {
     color: white;
     padding-left: 0px;
-    padding-right: 15px;
+    padding-right: 2px;
     margin-right: 0px;
     margin-left: 2px;
     margin-top: 1px;
@@ -138,6 +138,11 @@ window#waybar {
 }
 
 #pulseaudio {
+    background: transparent;
+    padding: 5px 0px 5px 5px;
+    margin: 5px 5px 5px 5px;
+    border-radius: 8px;
+    border: solid 0px #f4d9e1;
     color: white;
     border-radius: 8px;
     margin-left: 0px;

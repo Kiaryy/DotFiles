@@ -3,7 +3,6 @@ base
 base-devel
 btop
 cliphist
-dolphin
 dosfstools
 efibootmgr
 ffmpegthumbnailer
@@ -71,3 +70,4 @@ kalk
 gvfs-mtp
 thunar-volman
 thunar-media-tags-plugin
+nm-connection-editor
