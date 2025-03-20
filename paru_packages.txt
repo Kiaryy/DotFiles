@@ -19,3 +19,4 @@ gpu-screen-recorder
 neo-matrix
 grimblast-git 
 tumbler-folder-thumbnailer
+marktext
