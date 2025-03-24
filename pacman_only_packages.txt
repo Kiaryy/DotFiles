@@ -13,6 +13,11 @@ grub
 gst-plugin-pipewire
 gvfs
 htop
+hypridle
+hyprlock
+hyprpaper
+hyprpicker
+polkit-gnome
 iwd
 kitty
 libpulse
@@ -32,7 +37,6 @@ pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
-polkit-kde-agent
 qt5-wayland
 qt6-wayland
 rofi-wayland
