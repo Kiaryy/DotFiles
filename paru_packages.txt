@@ -1,3 +1,8 @@
+hyprland-git 
+hypridle-git
+hyprlock-git
+hyprpaper-git
+hyprpicker-git
 cava
 grub-editor
 qtilitools

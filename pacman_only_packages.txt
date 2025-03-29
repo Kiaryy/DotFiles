@@ -13,10 +13,6 @@ grub
 gst-plugin-pipewire
 gvfs
 htop
-hypridle
-hyprlock
-hyprpaper
-hyprpicker
 polkit-gnome
 iwd
 kitty
