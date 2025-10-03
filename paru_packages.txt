@@ -21,3 +21,4 @@ neo-matrix
 grimblast-git 
 tumbler-folder-thumbnailer
 marktext
+dysk
