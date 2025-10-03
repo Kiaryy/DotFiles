@@ -17,7 +17,7 @@ Terminal Font: tf-jetbrains-mono-nerd <br/>
 
 # Shell
 
-Im using zsh with powerlevel10k
+Im using Fish with tide
 
 # Clipping Software
 
