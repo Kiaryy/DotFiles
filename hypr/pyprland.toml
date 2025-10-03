@@ -8,19 +8,19 @@ animation = "fromTop"
 command = "kitty --class kitty-dropterm"
 class = "kitty-dropterm"
 size = "75% 60%"
+max_size = "1920px 100%"
+margin = 50
 
 [scratchpads.volume]
 animation = "fromRight"
 command = "pwvucontrol"
-class = "com.saivert.pwvucontrol"
+class = "com.saivert.pwvucontrol-pypr"
 size = "40% 90%"
 unfocus = "hide"
-lazy = true
 
 [scratchpads.network]
 animation = "fromRight"
 command = "nm-connection-editor"
-class = "nm-connection-editor"
+class = "nm-connection-editor-pypr"
 size = "40% 90%"
 unfocus = "hide"
-lazy = true

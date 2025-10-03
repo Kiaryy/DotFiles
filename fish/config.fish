@@ -8,7 +8,7 @@ if status is-interactive
     set -g tide_status_bg_color_failure 000000  
     set -g tide_status_bg_color 000000  
     neofetch --ascii ~/.config/neofetch/cat_ascii | lolcat --spread=20 --freq=0.01 -S 21520 -f
-    alias tetrs="tetrs_terminal"
+    alias tetrs="tetrs_tui"
     alias pympeg="python /home/kiary/Downloads/scripts/pympeg.py"    
 end
 
