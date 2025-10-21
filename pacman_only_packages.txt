@@ -71,3 +71,5 @@ gvfs-mtp
 thunar-volman
 thunar-media-tags-plugin
 nm-connection-editor
+hyprtoolkit
+hyprlauncher
