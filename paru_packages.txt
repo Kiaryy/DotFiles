@@ -15,7 +15,6 @@ wlogout
 pix
 clipse
 pwvcontrol
-pypr
 gpu-screen-recorder
 neo-matrix
 grimblast-git 

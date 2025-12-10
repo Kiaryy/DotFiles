@@ -229,7 +229,7 @@
     "on-scroll-up": "wpctl set-volume @DEFAULT_AUDIO_SINK@ 10%+ -l 1",
     "on-scroll-down": "wpctl set-volume @DEFAULT_AUDIO_SINK@ 10%-",
     "scroll-step": 5,
-		"on-click-right": "pypr toggle volume"
+		"on-click-right": "pwvucontrol"
   },
   "custom/launcher": {
     "format": "󰈸",
